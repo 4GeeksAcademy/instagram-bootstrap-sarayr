@@ -1,0 +1,6 @@
+.navbar navbar-light bg-light py-3{
+    color: rgb(88, 81, 81);
+}
+.nav-pill .nav-link.active{
+    color: blue;
+}
